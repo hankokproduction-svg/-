@@ -1,0 +1,7 @@
+{
+  "name": "LifePlanner AI",
+  "description": "Умный планировщик для распорядка дня, питания, задач и заметок с AI-ассистентом.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
